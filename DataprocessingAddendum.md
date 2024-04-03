@@ -14,7 +14,7 @@ You can view, access, edit, or delete your information for certain aspects of th
   If you wish to exercise your rights under the GDPR, CCPA, or other applicable data protection or privacy laws, please contact us by using the “Submit a request” link here or at the address provided in Section 13 below, specify your request, and reference the applicable law. We may ask you to verify your identity, or ask for more information about your request. We will consider and act upon any above request in accordance with applicable law. We will not discriminate against you for exercising any of these rights.
 
 - _Cases where the right to erasure does not apply_
-  The right to erasure does not apply to the extent that processing is necessary:
+  <br>The right to erasure does not apply to the extent that processing is necessary:
   - for exercising the right of freedom of expression and information;
   - for compliance with a legal obligation which requires processing by Union or Member State law to which the controller is subject or for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller;
   - for reasons of public interest in the area of public health;

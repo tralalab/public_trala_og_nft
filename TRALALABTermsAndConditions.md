@@ -1,4 +1,4 @@
-##TRALA LAB Terms & Conditions
+## TRALA LAB Terms & Conditions
 
 Last Updated: Apr 1, 2024
 
@@ -9,9 +9,10 @@ These terms of use are entered into by and between You and TRALA LAB PTE. LTD. (
 <br>This Service is offered and available to users who are 18 years of age or older. By using this Service, you represent and warrant that you are of legal age to form a binding contract with the Company and meet all of the foregoing eligibility requirements. If you do not meet all of these requirements, you must not access or use the Service. You also represent and warrant that you will comply with all applicable laws when using the Service. Without limiting the foregoing, by using the Service, you represent and warrant, at each and every time of your use of the Service, that: (a) you are not located in Singapore, Korea, and countries sanctioned by the US Treasury Department’s Office of Foreign Asset Control, which might be subject to change from time to time; and (b) you have not been identified as a Specially Designated National or placed on any list of parties or individuals prohibited, sanctioned, or restricted by governments of either the United States of America or the Republic of Singapore.
 
 - ### Change to Our Terms
+
   We may revise and update these Terms from time to time at our sole discretion. All changes are effective immediately when we post them and apply to all access to and use of the Service thereafter. However, any changes to the dispute resolution provisions set out in Governing Law and Jurisdiction will not apply to any disputes for which the parties have actual notice on or before the date the change is posted on the Service.
 
-<br>Your continued use of the Service following the posting of the revised Terms means that you accept and agree to the changes. You are expected to check this page from time to time so you are aware of any changes, as they are binding on you.
+  <br>Your continued use of the Service following the posting of the revised Terms means that you accept and agree to the changes. You are expected to check this page from time to time so you are aware of any changes, as they are binding on you.
 
 - ### Changes to the Service
   We may update the content on this Service from time to time, but its content is not necessarily complete or up-to-date. Any of the material on the Service may be out of date at any given time, and we are under no obligation to update such material.

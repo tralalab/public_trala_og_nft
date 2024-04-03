@@ -1,8 +1,9 @@
-###Privacy Policy
+### Privacy Policy
 
 Last Updated: Apr 1, 2024
 
-##Introduction
+## Introduction
+
 TRALA LAB PTE. LTD. (“TRALA LAB”, “we”, “us”, or “our”) respects your privacy and is committed to protecting it through our compliance with this policy. This Privacy Policy describes the types of information we may collect from you or that you may provide when you visit our website, mobile app, and other software provided on or in connection with our services, as described in our Terms of Service (collectively, the “Service”) and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 This policy applies to the information we collect:
 
@@ -12,7 +13,8 @@ This policy applies to the information we collect:
 
 Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Service. By accessing or using this Service, you agree to this privacy policy. This policy may change from time to time (see ‘Changes to Our Privacy Policy’). Your continued use of this Service after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-##information to be Collected
+## information to be Collected
+
 We collect several types of information from and about users of our Service as described below.
 
 1. _Information you provide to us._
@@ -41,7 +43,8 @@ We collect several types of information from and about users of our Service as d
    Some content or applications, including advertisements, on the Service are served by third parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our Service. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
    We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see ‘Choices About How We Use and Disclose Your Information.’
 
-##How We Use Your Data
+## How We Use Your Data
+
 We use information that we collect about you or that you provide to us, including any personal information for the following purposes:
 
 1. _To make the Service work:_
@@ -74,7 +77,7 @@ We use information that we collect about you or that you provide to us, includin
    iv. Analyze, profile, and segment.
    In all of the above cases and purposes, we may analyze, profile and segment all collected information. Furthermore, with your consent, we may process your information for additional purposes.
 
-##DISCLOSURE OF your Information
+## DISCLOSURE OF your Information
 
 1. _Your information can be accessed by others in the following situations:_
    i. Other users. Social features are a core component of our App. Other users may, for example, see your profile information, in-game activities, leaderboard position and read the messages you have posted.
@@ -85,7 +88,8 @@ We use information that we collect about you or that you provide to us, includin
    ii. To enforce or apply our Terms of Service and other agreements, including for billing and collection purposes.
    iii. If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of us, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
-##Choices About How We Use and Disclose Your Information
+## Choices About How We Use and Disclose Your Information
+
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
 1. _Tracking technologies and advertising._
@@ -96,8 +100,10 @@ We strive to provide you with choices regarding the personal information you pro
    ii. For personalized in-game advertising you will be asked for consent before watching the first ad. If we have collected and processed your personal information with your consent, then you can withdraw your consent at any time using the options provided in the game settings. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
    iii. We do not control third parties' collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative ("NAI") on the NAI's website.
 
-##Changes to Our Privacy Policy
+## Changes to Our Privacy Policy
+
 This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy at https://trala.me/ . The date the Privacy Policy was last revised is identified at the beginning of this Privacy Policy. You are responsible for periodically visiting our Service and this Privacy Policy to check for any changes.
 
-##CONTACT US
+## CONTACT US
+
 If you have questions about information protection, or if you have any requests concerning your personal information, we encourage you to contact us at contact@trala.me
